@@ -3,7 +3,7 @@ layout: home
 ---
 
 **Name:** Kevin Zhu  
-**Email:** UCSD_EMAIL@ucsd.edu
+**Email:** kez016@ucsd.edu
 
 **Section:** DSC 180A D13, Analysis of High Dimensional Neural Data  
 **Mentor:** Mikio Aoi
